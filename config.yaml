@@ -1,0 +1,18 @@
+Master:
+  M1:
+    ip: 127.0.0.1
+    port: 9000
+
+Nodes:
+  P1:
+    ip: 127.0.0.2
+    port: 9001
+
+  P2:
+    ip: 127.0.0.3
+    port: 9002
+
+Client:
+  C1:
+    ip: 127.0.0.4
+    port: 9004
