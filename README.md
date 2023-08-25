@@ -55,6 +55,8 @@ To run the 2PC protocol on your local machine, follow these steps:
 - `uploadconfig.py`: Loads configuration settings for nodes and the master from configuration files.
 - `logs.py`: Implements logging functions to record transaction details.
 
+![Two-Phase Commit Process](https://github.com/Axs7941/2phasecommit_protocol/raw/master/public/2phasecommit.png)
+
 ## Contributing
 
 Contributions are welcome! If you find bugs, have suggestions for improvements, or want to add new features, feel free to open issues or submit pull requests.
