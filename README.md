@@ -1,6 +1,5 @@
 
 
-```markdown
 # Two-Phase Commit Fault Tolerance Protocol Implementation
 
 This repository contains a Python implementation of the Two-Phase Commit (2PC) protocol. The 2PC protocol is a distributed transaction protocol that ensures all nodes involved in a distributed transaction either commit or abort the transaction consistently.
